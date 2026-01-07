@@ -27,8 +27,9 @@
 
 ## 🌱 **Atualmente Desenvolvendo**
 - Kubernetes avançado
-- Segurança em pipelines DevOps
+- Pipelines DevOps
 - Observabilidade com OpenTelemetry
+- Zabbix e Grafana
 
 ---
 
