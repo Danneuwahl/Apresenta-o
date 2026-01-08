@@ -30,6 +30,7 @@
 - Pipelines DevOps
 - Observabilidade com OpenTelemetry
 - Zabbix e Grafana
+- ElasticSearch
 
 ---
 
